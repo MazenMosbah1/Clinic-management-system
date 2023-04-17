@@ -1,4 +1,3 @@
-# Clinic-management-system
 Clinical Management System
 The Clinical Management System is a software application designed to assist healthcare providers and administrators in managing patient information and medical records. It is built using the C programming language, which provides efficient and low-level control over the system.
 
